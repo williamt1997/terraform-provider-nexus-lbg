@@ -3,7 +3,7 @@ terraform {
 
   required_providers {
     nexus = {
-      source = "williamt1997/nexus"
+      source = "williamt1997/nexus-lbg"
     }
   }
 }

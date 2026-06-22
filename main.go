@@ -23,7 +23,7 @@ func main() {
 
 	plugin.Serve(&plugin.ServeOpts{
 		Debug:        debugMode,
-		ProviderAddr: "registry.terraform.io/williamt1997/nexus",
+		ProviderAddr: "registry.terraform.io/williamt1997/nexus-lbg",
 		ProviderFunc: provider.Provider,
 	})
 }
