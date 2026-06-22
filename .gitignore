@@ -13,3 +13,6 @@ debug.test
 
 # nexus pro license file
 scripts/license.lic
+
+# GPG key exports (never commit)
+.gpg-export/
